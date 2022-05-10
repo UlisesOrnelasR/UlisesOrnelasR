@@ -33,8 +33,8 @@ I like to exercise🏊 and spend quality time with my family and friends.🔋
 
 ### 🍍 Social:
 
-<a href="fb" target="_blank"> <img align="left" alt="fb" height ="80px"  src="./assets/facebook.png"> </a>
+<a href="https://www.facebook.com/Ulises.Fidel.Ornelas" target="_blank"> <img align="left" alt="fb" height ="80px"  src="./assets/facebook.png"> </a>
 
-<a href="ig" target="_blank"> <img align="left" alt="ig" height ="80px"  src="./assets/instagram.png"> </a>
+<a href="https://www.instagram.com/ulises_ornelasr/" target="_blank"> <img align="left" alt="ig" height ="80px"  src="./assets/instagram.png"> </a>
 
-<a href="linkedin" target="_blank"> <img align="left" alt="linkedin" height ="80px"  src="./assets/linkedin.png"> </a>
+<a href="www.linkedin.com/in/ulises-ornelas" target="_blank"> <img align="left" alt="linkedin" height ="80px"  src="./assets/linkedin.png"> </a>
