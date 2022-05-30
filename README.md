@@ -23,6 +23,9 @@ I like to exercise🏊 and spend quality time with my family and friends.🔋
 
 <a href="github" target="_blank"> <img src="./assets/github.png" align="left" alt="github" height='80px'/> </a>
 
+<a href="github" target="_blank"> <img src="![nodejs](https://user-images.githubusercontent.com/99143567/170923123-6e8baebc-0898-414f-8523-132b4c887db7.png)
+" align="left" alt="github" height='80px'/> </a>
+
 <br>
 <br>
 <br>
