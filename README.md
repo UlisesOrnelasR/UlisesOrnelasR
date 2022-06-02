@@ -2,7 +2,7 @@
 
 ### 🚶 About Me:
 
-Hi, I'm a mechatronic engineering student🔧, but I'm passionate about software development.
+Hi, I'm a mechatronics engineering student🔧, but I'm passionate about software development.
 
 I like to exercise🏊 and spend quality time with my family and friends.🔋
 ### 🔨 Languages and Tools:
