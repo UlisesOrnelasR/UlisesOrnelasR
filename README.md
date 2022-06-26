@@ -1,4 +1,4 @@
-![Título](./assets/Final.gif)
+![Título](./assets/HeyThere!GitHub.gif)
 
 ### 🚶 About Me:
 
@@ -7,29 +7,31 @@ Hi, I'm a mechatronics engineering student🔧, but I'm passionate about softwar
 I like to exercise🏊 and spend quality time with my family and friends.🔋
 ### 🔨 Languages and Tools:
 
-<a href="js" target="_blank"> <img align="left" alt="JavaScript" height ="80px"  src="./assets/javascript.png"> </a>
+<a><img src="./assets/react.png" align="left" height="80px"></img></a>
 
-<a href="vue" target="_blank"> <img align="left" alt="vue" height ="80px" src="./assets/vue.png"></a>
+<a><img src="./assets/javascript.png" align="left" height="80px"></img></a>
 
-<a href="css" target="_blank"><img align="left" alt="css" height ="80px" src="./assets/css.png"></a>
+<a><img src="./assets/html.png" align="left" height="80px"></img></a>
 
-<a href="html" target="_blank"> <img src="./assets/html.png" align="left" alt="html" height='80px'/> </a>
+<a><img src="./assets/css.png" align="left" height="80px"></img></a>
 
-<a href="hugo" target="_blank"> <img src="./assets/goHugo.png" align="left" alt="hugo" height='80px'/> </a>
+<a><img src="./assets/nodejs.png" align="left" height="80px"></img></a>
 
-<a href="azure" target="_blank"> <img src="./assets/azure.png" align="left" alt="azure" height='80px'/> </a>
+<a><img src="./assets/mongoDB.png" align="left" height="80px"></img></a>
 
-<a href="git" target="_blank"> <img src="./assets/git.png" align="left" alt="git" height='80px'/> </a>
+<a><img src="./assets/express.png" align="left" height="80px"></img></a>
 
-<a href="github" target="_blank"> <img src="./assets/github.png" align="left" alt="github" height='80px'/> </a>
+<a><img src="./assets/git.png" align="left" height="80px"></img></a>
+
+<a><img src="./assets/azure.png" align="left" height="80px"></img></a>
 
 <br>
 <br>
 <br>
 <br>
 <br>
-
-
+<br>
+<br>
 
 ### 🍍 Social:
 
