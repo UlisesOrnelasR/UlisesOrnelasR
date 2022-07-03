@@ -17,8 +17,6 @@ I like to exercise🏊 and spend quality time with my family and friends.🔋
 
 <a><img src="./assets/nodejs.png" align="left" height="80px"></img></a>
 
-<a><img src="./assets/mongoDB.png" align="left" height="80px"></img></a>
-
 <a><img src="./assets/express.png" align="left" height="80px"></img></a>
 
 <a><img src="./assets/git.png" align="left" height="80px"></img></a>
